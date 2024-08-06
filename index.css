@@ -1,9 +1,23 @@
 #title {
     display: block;
     color: #9370db;
-    background-color: #eee6d9;
+    background-color: #eaddc9;
     border: 6px dotted  #9370db;
     text-align: center;
     padding: 8px;
     margin: auto;
+    font-size: 50px;
+    font-weight:bold;
+    font-family:cursive
+    
+}
+.meal {
+    display: block;
+    border: 4px double #9370db;
+    background-color: #fff7eb;
+    text-align: center;
+    padding: 16px;
+    margin: 30px;
+    font-size: 35px;
+    font-family: cursive;
 }
