@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(142, 13, 30);
+    font-size: 40px;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    margin: auto;
+    padding: 8px;
+}
+.subtitle {
+    display: block;
+    color: rgb(247, 133, 166);
+    border: 2px solid rgb(142, 13, 30);
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.list {
+    display: block;
+    margin: 30px;
+    background-color: rgb(253, 200, 207)
+}
