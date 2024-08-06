@@ -1,0 +1,9 @@
+#title {
+    display: block;
+    color: #9370db;
+    background-color: #eee6d9;
+    border: 6px dotted  #9370db;
+    text-align: center;
+    padding: 8px;
+    margin: auto;
+}
